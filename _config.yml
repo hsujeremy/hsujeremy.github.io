@@ -10,12 +10,9 @@ nav-links:
   - name: Blog
     url: /blog
     external: false
-  - name: Search Engine
-    url: https://duckduckgo.com
-    external: true
 
 greeting_image: /assets/memoji-circular-favicon.png
-greeting_text: Hey! I'm Jeremy, an undergraduate studying Computer Science at Harvard and a current Software Engineer Intern at Cisco!
+greeting_text: Hello! I'm Jeremy, a student at Harvard studying Computer Science.
 
 show_excerpts: false
 excerpt_word_count: 70

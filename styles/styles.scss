@@ -41,9 +41,7 @@ nav a {
 }
 
 // typography: heading
-h1,
-h2,
-h3 {
+h1, h2, h3 {
   color: #333;
   font-family: $heading-font-stack;
 }
@@ -55,6 +53,7 @@ h1 {
 
 .global-title {
   font-size: 3rem;
+  font-weight: 800;
   color: #222;
 }
 
@@ -114,7 +113,7 @@ img {
   display: flex;
 }
 
-.greeting-container h3 {
+.greeting-container h3, .greeting-container h4 {
   align-self: center;
   margin: 0;
 }

@@ -1,28 +1,32 @@
 ---
 ---
 
-## 🤷 What I do
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Currently, I'm interested in Networking, Distributed Systems, Machine Learning, and Full-Stack Development. In the coming years, I also want to learn more about Operating Systems.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Outside of CS, I love playing tennis, reading, spending time with my family and dogs, and attempting to dance.
 
-## 🦕 What I've done before
+## Currently
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+- Interning as a Software Engineer at Cisco on the Webex Media Engine team
+- Conducting research under Professor Minlan Yu in the Harvard Cloud Networking and Systems Lab
+- Working on side projects, either independently or with friends
+- Helping write the scoring and matching algorithms for Datamatch
+- Trying to read more
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
+## Previously
 
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+- Finished my freshman year at Harvard in May 2020
+- Organized the MVHacks hackathon with a couple of high school friends in March 2019
 
-## 👋🏻 Say hi
+## Let's Chat!
 
 Wanna chat? Feel free to reach out!
 
 - Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
 - [Issues](https://github.com/katmh/point-theme/issues)
 
-## 📠 Fun facts
+## Other Things
 
 - You can customize link colors, container width, and fonts in `styles/styles.scss`
 - This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
