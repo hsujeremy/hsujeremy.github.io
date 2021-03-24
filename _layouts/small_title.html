@@ -1,5 +1,5 @@
 {% include smallhead.html %}
-{% if page.title || post.title %}
+{% if page.title or post.title %}
 <h1>{% if page.title %}{{ page.title }}{% endif %}{% if post.title %}{{ post.title }}{% endif %}</h1>
 {% if page.date %}<p><i>{{ page.date | date: '%B %d, %Y' }}</i></p>{% endif %}
 {% endif %}
