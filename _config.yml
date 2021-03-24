@@ -5,7 +5,9 @@
 #
 
 # no trailing slash
-url: https://point-theme.netlify.app
+# url: https://point-theme.netlify.app
+url: hsujeremy.github.io
+baseurl: /personal-site-v2
 
 # for header and meta tags
 title: Point Theme 🎯
