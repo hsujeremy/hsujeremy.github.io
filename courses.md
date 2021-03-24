@@ -1,5 +1,6 @@
 ---
 title: Courses
+layout: small_title
 ---
 
 ## Spring 2020

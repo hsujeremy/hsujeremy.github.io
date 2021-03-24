@@ -32,6 +32,11 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - # layout with smaller name on top
+    scope:
+      path: "courses"
+    values:
+      layout: "small_title"
   - # sets is_post=true for all blog posts
     scope:
       path: ""
