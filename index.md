@@ -2,7 +2,7 @@
 ---
 
 
-Currently, I'm interested in Networking, Distributed Systems, Machine Learning, and Full-Stack Development. In the coming years, I also want to learn more about Operating Systems.
+These days, I'm interested in Networking, Distributed Systems, Machine Learning, and Full-Stack Development. In the coming years, I also want to learn more about Operating Systems.
 
 Outside of CS, I love playing tennis, reading, spending time with my family and dogs, and attempting to dance.
 
