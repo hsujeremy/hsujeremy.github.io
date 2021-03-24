@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 		<link rel="stylesheet" href="{{ '/styles/styles.css' | prepend:site.url }}">
     </head>
-    
+
     <body>
         <div id="container">
             <h1 class="global-title">{{ site.title }}‍</h1>
@@ -16,7 +16,7 @@
                     {% for link in site.nav-links %}
                     <li>
                         {% if link.external == true %}
-                        <a href="{{ link.url }}">
+                        <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">
                         {% endif %}
                         {% if link.external != true %}
                         <a href="{{ link.url | prepend:site.url }}">
