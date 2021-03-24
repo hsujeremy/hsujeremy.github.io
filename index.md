@@ -21,13 +21,6 @@ Outside of CS, I love playing tennis, reading, spending time with my family and 
 
 ## Let's Chat!
 
-Wanna chat? Feel free to reach out!
+If you're interested, I'd love to talk about cool opportunities, CS, tennis, or life in general. Feel free to reach out!
 
-- Source code: [@katmh/point-theme](http://github.com/katmh/point-theme)
-- [Issues](https://github.com/katmh/point-theme/issues)
-
-## Other Things
-
-- You can customize link colors, container width, and fonts in `styles/styles.scss`
-- This theme has built-in options for 2 different date formats: "November 12, 2018" and "Nov '18"
-- Be sure to look through the config file to change the site title, description, homepage greeting, and more
+[GitHub](https://github.com/HsuJeremy) · [LinkedIn](https://www.linkedin.com/in/jeremy-hsu/) · [Email](mailto:jeremyhsu@college.harvard.edu)
