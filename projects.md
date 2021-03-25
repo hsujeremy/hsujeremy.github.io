@@ -10,6 +10,11 @@ layout: small_title
 - **Built with Node.js, React, Socket.io, and the YouTube iFrame API**
 - A full stack web application that allows any number of users to stream any YouTube video synchronously using web sockets and a YouTube iFrame instance.
 
+### Media Bias Chrome Extension
+- **March 2021 - Present**
+- **Collaborating with [Steve Li](https://steve-li.com)**
+- A chrome extension that uses deep learning to detect media biases in articles.
+
 ## Completed or Archived
 
 ### ML-Enabled Spotify Curator
