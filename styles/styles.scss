@@ -89,11 +89,12 @@ li:first-child {
 a {
   color: $accent-color;
   text-decoration: none;
+  transition: color 100ms;
 }
 
-a:hover,
-a:active {
+a:hover, a:active {
   color: lighten($accent-color, 10%);
+  transition: color 100ms;
 }
 
 // images
