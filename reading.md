@@ -3,7 +3,7 @@ title: Books I've Read
 layout: small_title
 ---
 
-### Current
+### Currently
 - A Promised Land - Barack Obama
 - Sapiens: A Brief History of Humankind - Yuval Noah Harari
 
