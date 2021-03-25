@@ -10,9 +10,9 @@ Outside of CS, I love playing tennis, reading, spending time with my family and 
 
 - Interning as a Software Engineer at Cisco on the Webex Media Engine team
 - Conducting research under Professor Minlan Yu in the Harvard Cloud Networking and Systems Lab
-- Working on side projects, either independently or with friends
+- Working on [side projects](/projects), either independently or with friends
 - Helping write the scoring and matching algorithms for Datamatch
-- Trying to read more
+- Trying to [read more](/reading)
 
 ## Previously
 
