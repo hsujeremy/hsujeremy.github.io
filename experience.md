@@ -18,3 +18,8 @@ layout: small_title
 - **February 2021 - Present**
 - **Working under Professor Minlan Yu.**
 - Researching how to leverage RPC system queues to identify network performance issues such as noisy neighbor effects and head-of-line blocking.
+
+## Other
+
+### Organizer at MVHacks
+- **September 2018 - April 2019**

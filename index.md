@@ -19,7 +19,7 @@ Outside of CS, I love playing tennis, reading, spending time with my family and 
 
 ## Up Next
 - Interning at Lime on the backend team **this summer**
-- Starting my sophomore year at Harvard **in September**
+- Starting my sophomore year at Harvard in **September**
 
 ## Let's Connect!
 
