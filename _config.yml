@@ -17,15 +17,13 @@ nav-links:
     url: /assets/Jeremy-Hsu-Resume.pdf
     external: false
 
-greeting_image: /assets/memoji-circular-favicon.png
+greeting_image: /assets/headshot.png
 greeting_text: Hello! I'm Jeremy, a student at Harvard studying Computer Science.
 
 show_excerpts: false
 excerpt_word_count: 70
 
-# long date: April 20, 1969
 long_date: false
-# short date: Apr ‘69
 short_date: true
 
 # don't modify
