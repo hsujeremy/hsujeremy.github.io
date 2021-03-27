@@ -8,7 +8,7 @@ layout: small_title
 ### YouTube Party
 - **March 2021 - Present**
 - **Built with Node.js, React, Socket.io, and the YouTube iFrame API**
-- A full stack web application that allows any number of users to stream any YouTube video synchronously using web sockets and a YouTube iFrame instance.
+- A full stack web application that allows any number of users to stream any YouTube video synchronously using web sockets and a YouTube iFrame instance. The site also includes an integrated group chat.
 
 ### Media Bias Chrome Extension
 - **March 2021 - Present**
