@@ -8,9 +8,9 @@ Outside of CS, I love playing tennis, reading, spending time with my family and 
 
 ## Currently
 - Interning as a Software Engineer at Cisco on the Webex Media Engine team
-- Conducting research under Professor [Minlan Yu](http://minlanyu.seas.harvard.edu) in the Harvard Cloud Networking and Systems Lab
+- Conducting research with Professor [Minlan Yu](http://minlanyu.seas.harvard.edu) in the Harvard Cloud Networking and Systems Lab, exploring how to use RPC system queues to identify network performance issues
 - Working on [side projects](/projects), either independently or with friends
-- Helping write the scoring and matching algorithms for [Datamatch](https://datamatch.me)
+- Helping write the scoring and matching algorithms for [Datamatch](https://datamatch.me), a matchmaking service originally started at Harvard that has now expanded to 34+ schools
 - Trying to [read more](/reading)
 
 ## Recently
