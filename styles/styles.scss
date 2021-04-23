@@ -65,8 +65,12 @@ h3 {
   font-size: 1.3rem;
 }
 
-h2, h3 {
+h2, h3, h4 {
   margin: 2rem 0 1rem;
+}
+
+h4 {
+  font-size: 1.2rem;
 }
 
 // typography: body
@@ -158,4 +162,11 @@ code {
   padding: 3px 5px;
   border-radius: 2px;
   font-family: $code-font-stack;
+}
+
+.duration {
+  color: #6B6B6B;
+  margin-top: -0.75rem;
+  margin-bottom: 0.5rem;
+  font-family: $font-stack;
 }

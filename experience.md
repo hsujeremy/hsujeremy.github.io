@@ -3,23 +3,18 @@ title: Experience
 layout: small_title
 ---
 
-## Industry
+<h2>Industry</h2>
+<h4>Software Engineer Intern at Lime</h4>
+<p class="duration">Starting in May</p>
 
-### Software Engineer Intern at Lime
-- **Starting in May**
-- **Team: TBD**
+<h4>Software Engineer Intern at Cisco</h4>
+<p class="duration">Webex Media Engine, May 2020 - May 2021</p>
 
-### Software Engineer Intern at Cisco
-- **May 2020 - Present**
-- **Team: Webex Media Engine**
+<h2>Research</h2>
+<h4>Undergraduate Researcher at Harvard Cloud Networking and Systems Lab</h4>
+<p class="duration">February 2021 - Present</p>
+- Working under Prof. Minlan Yu.
 
-## Academia
-### Researcher at the Harvard Cloud Networking and Systems Lab
-- **February 2021 - Present**
-- **Working under Professor Minlan Yu.**
-- Researching how to leverage RPC system queues to identify network performance issues such as noisy neighbor effects and head-of-line blocking.
-
-## Other
-
-### Organizer at MVHacks
-- **September 2018 - April 2019**
+<h2>Other</h2>
+<h4>Organizer at MVHacks</h4>
+<p class="duration">September 2018 - Present</p>
