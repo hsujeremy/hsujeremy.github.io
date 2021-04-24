@@ -169,11 +169,6 @@ code {
   font-family: $code-font-stack;
 }
 
-// .metadata > * {
-//   margin-top: 2rem;
-//   margin-bottom: 1rem;
-// }
-
 .metadata > h4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -188,5 +183,8 @@ code {
 
 .project > .description {
   margin-top: 0.75rem;
-  // border: 2px red solid;
+}
+
+li {
+  margin-left: 1.75rem;
 }
