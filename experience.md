@@ -11,7 +11,7 @@ layout: small_title
 
 <div class="metadata">
     <h4>Software Engineer Intern at Cisco</h4>
-    <p class="duration">Webex Media Engine, May 2020 - May 2021</p>
+    <p class="duration">Webex Media Engine, May 2020 - Present</p>
 </div>
 
 <h2>Research</h2>
