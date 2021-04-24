@@ -4,13 +4,12 @@ layout: small_title
 ---
 
 ### Currently
-- A Promised Land - Barack Obama
-- Sapiens: A Brief History of Humankind - Yuval Noah Harari
+- Open: An Autobiography - Andre Agassi
 
-### So Far in 2021
+### 2021
 - No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings and Erin Meyer
 
-### In 2020
+### 2020
 - Just Mercy: A Story of Justice and Redemption - Bryan Stevenson
 - Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance
 - A Million Miles in a Thousand Years - Donald Miller
@@ -23,7 +22,7 @@ layout: small_title
 - This is Marketing - Seth Godin
 - How to Win Friends and Influence People - Dale Carnegie
 
-### In 2019
+### 2019
 - Becoming - Michelle Obama
 - Shoe Dog - Phil Knight
 - The Alchemist - Paul Coelho
