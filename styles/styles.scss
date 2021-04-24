@@ -65,8 +65,12 @@ h3 {
   font-size: 1.3rem;
 }
 
-h2, h3, h4 {
+h2 {
   margin: 2rem 0 1rem;
+}
+
+h3 {
+  margin: 2rem 0 0.75rem;
 }
 
 h4 {
@@ -165,9 +169,24 @@ code {
   font-family: $code-font-stack;
 }
 
-.duration {
+// .metadata > * {
+//   margin-top: 2rem;
+//   margin-bottom: 1rem;
+// }
+
+.metadata > h4 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.metadata > .duration {
   color: #6B6B6B;
   margin-top: -0.75rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
   font-family: $font-stack;
+}
+
+.project > .description {
+  margin-top: 0.75rem;
+  // border: 2px red solid;
 }
