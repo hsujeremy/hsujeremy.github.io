@@ -115,6 +115,10 @@ li {
   margin: 0.25rem 0 0 2.5rem;
 }
 
+li {
+  margin-left: 1.75rem;
+}
+
 li:first-child {
   margin-top: 0;
 }
@@ -207,10 +211,15 @@ code {
   font-family: $font-stack;
 }
 
-.project > .description {
-  margin-top: 0.75rem;
+.metadata {
+  padding: 0;
 }
 
-li {
-  margin-left: 1.75rem;
+p.description {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+li.description:first-child {
+  margin-top: 0;
 }
