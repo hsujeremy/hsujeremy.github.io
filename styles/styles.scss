@@ -45,7 +45,11 @@ body {
 
 // navigation
 nav {
-  margin: 1rem 0 3rem;
+  margin: 1rem 0 2rem;
+}
+
+nav.default {
+  margin-top: 2rem;
 }
 
 nav li {
@@ -147,6 +151,7 @@ img {
   display: flex;
 }
 
+.greeting-container h1,
 .greeting-container h3,
 .greeting-container h4 {
   align-self: center;

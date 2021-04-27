@@ -1,28 +1,43 @@
 ---
 ---
 
-These days, I'm interested in computer networking, distributed systems, machine learning, and full-stack development.
-Coming up, I also want to learn more about operating systems and databases.
+<h2>Hi!</h2>
+<p>
+	I'm Jeremy, a rising sophomore at Harvard University studying Computer Science.
+	Currently, I’m interested in distributed systems, machine learning, operating
+	systems, and full-stack development.
+</p>
 
-Outside of CS, I love playing tennis, reading, spending time with my family and dogs, and attempting to dance.
+<p>
+	For the past year, I've been working as a software engineer at Cisco while on
+	a gap year from Harvard. I'll be interning at Lime this summer and will
+	return to campus in the fall.
+</p>
 
-## Currently
-- Interning as a software engineer at Cisco on the Webex Media Engine team
-- Conducting research with Professor [Minlan Yu](http://minlanyu.seas.harvard.edu) in the Harvard Cloud Networking and Systems Lab. I'm currently working on a programmable measurement architecture for network operations.
-- Helping write the scoring and matching algorithms for [Datamatch](https://datamatch.me), a matchmaking service originally started at Harvard that has now expanded to 34+ schools
-- Working on [side projects](/projects), either independently or with friends
-- Trying to [read more](/reading)
+<p>
+	On campus, I conduct research related to computer networking and distributed
+	systems. I’m also help write the scoring and matching algorithms for Datamatch,
+	a matchmaking service originally started at Harvard that has now expanded to
+	over 34 schools.
+</p>
 
-## Recently
-- Finished my freshman year at Harvard in May 2020
-- Organized the [MVHacks](https://mvhacks.io) hackathon with a couple of high school friends in March 2019
+<h2>What Else?</h2>
+<p>
+	Some of my friends think I'm a giant nerd. That's sort of accurate. It turns
+	out I really like programming and can sometimes lose myself in working on
+	<a href="/projects">side projects</a> either on my own or with friends.
+</p>
+<p>
+	At the same time, I really enjoy playing tennis, <a href="/reading">reading</a>,
+	and playing with my dogs. On rare occasions, I may even <em>try</em> to dance.
+	And in non-quarantine times, you can find me exploring whatever city or place
+	I'm in with my blue backpack and white Stan Smiths!
+</p>
 
-## Up Next
-- Interning at Lime on the backend team this summer
-- Starting my sophomore year at Harvard in September
-
-## Let's Connect!
-
-If you're interested, I'd love to talk about cool opportunities, CS, tennis, or life in general. Feel free to reach out!
-
-[GitHub](https://github.com/HsuJeremy) · [LinkedIn](https://www.linkedin.com/in/jeremy-hsu/) · [Email](mailto:jeremyhsu@college.harvard.edu)
+<h2>Let's Connect!</h2>
+<p>
+	If you're reading this, I'd love to chat! Feel free to reach out through
+	<a href="mailto:jeremyhsu@college.harvard.edu">email</a> or
+	<a href="https://www.linkedin.com/in/jeremy-hsu/">LinkedIn</a>, and also
+	check out my <a href="https://github.com/HsuJeremy">GitHub</a> profile.
+</p>
