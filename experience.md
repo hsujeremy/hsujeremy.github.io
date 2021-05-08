@@ -8,7 +8,7 @@ layout: small_title
   <div class="metadata">
     <h4>Software Engineer Intern at Lime</h4>
     <p class="duration">Partnership and Data Sharing</p>
-    <p class="duration">Starting in May</p>
+    <p class="duration">May 2021 - Present</p>
   </div>
 </div>
 
@@ -16,12 +16,28 @@ layout: small_title
   <div class="metadata">
     <h4>Software Engineer Intern at Cisco</h4>
     <p class="duration">Webex Media Engine</p>
-    <p class="duration">May 2020 - Present</p>
+    <p class="duration">May 2020 - May 2021</p>
   </div>
-  <p class="description">
-    My team develops and maintains the Webex Media Engine, a cross-platform
-    multimedia SDK serving as the media foundation for Webex Meetings and Teams.
-  </p>
+  <ul>
+    <li class="description">
+      Interned on the team working on the Webex Media Engine (WME), a cross-platform multimedia SDK powering Webex Meetings and Teams, during the COVID-19 pandemic where Webex traffic increased by over 300%.
+    </li>
+    <li class="description">
+      Overhauled and extended the WME team’s suite of internal debugging and triage tools by writing new and updating existing automation, analysis, and visualization scripts. Built Jenkins pipelines and command-line interfaces to deploy these tools.
+    </li>
+    <li class="description">
+      Collaborated with overseas teams on high-priority WME media quality projects, such as developing and deploying a data aggregation system to accelerate Elasticsearch data reads and Kibana dashboard load times, as well as installing an automated alert system to detect incoming client logs matching various edge cases.
+    </li>
+    <li class="description">
+      Debugged production code and wrote unit and gating tests for the WME metrics and audio echo canceler components.
+    </li>
+    <li class="description">
+      Automated the process of searching and downloading relevant client logs that match different cases and thresholds, saving WME engineers hours per day and increasing developer productivity.
+    </li>
+    <li class="description">
+      Created and monitored interactive dashboards visualizing critical app quality and network performance metrics to rapidly identify problematic trends and issues.
+    </li>
+  </ul>
 </div>
 
 <h2>Research</h2>
