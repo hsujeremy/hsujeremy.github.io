@@ -3,43 +3,62 @@ title: Books I've Read
 layout: small_title
 ---
 
-### Currently
-- Open: An Autobiography - Andre Agassi
+<h3>Currently</h3>
+<ul>
+  <li>Steve Jobs: A Biography - Walter Isaacson</li>
+</ul>
 
-### 2021
-- No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings and Erin Meyer
+<h3>2021</h3>
+<ul>
+  <li>Open: An Autobiography - Andre Agassi</li>
+  <li>
+    No Rules Rules: Netflix and the Culture of Reinvention - Reed Hastings and
+    Erin Meyer
+  </li>
+</ul>
 
-### 2020
-- Just Mercy: A Story of Justice and Redemption - Bryan Stevenson
-- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee Vance
-- A Million Miles in a Thousand Years - Donald Miller
-- I Know Why the Caged Bird Sings - Maya Angelou
-- The Ride of a Lifetime - Robert Iger
-- Enlightenment Now - Steven Pinker
-- 1984 - George Orwell
-- In Order to Live - Park Yeon-mi
-- Normal People - Sally Rooney
-- This is Marketing - Seth Godin
-- How to Win Friends and Influence People - Dale Carnegie
+<h3>2020</h3>
+<ul>
+  <li>Just Mercy: A Story of Justice and Redemption - Bryan Stevenson</li>
+  <li>
+    Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future - Ashlee
+    Vance
+  </li>
+  <li>A Million Miles in a Thousand Years - Donald Miller</li>
+  <li>I Know Why the Caged Bird Sings - Maya Angelou</li>
+  <li>The Ride of a Lifetime - Robert Iger</li>
+  <li>Enlightenment Now - Steven Pinker</li>
+  <li>1984 - George Orwell</li>
+  <li>In Order to Live - Park Yeon-mi</li>
+  <li>Normal People - Sally Rooney</li>
+  <li>This is Marketing - Seth Godin</li>
+  <li>How to Win Friends and Influence People - Dale Carnegie</li>
+</ul>
 
-### 2019
-- Becoming - Michelle Obama
-- Shoe Dog - Phil Knight
-- The Alchemist - Paul Coelho
-- Great Expectations - Charles Dickens
-- Educated: A Memoir - Tara Westover
-- The 7 Habits of Highly Effective People - Stephen Covey
-- Tim Cook: The Genius Who Took Apple to the Next Level - Leander Kahney
-- The 4-Hour Work Week - Tim Ferriss
-- Middlesex - Jeff Eugenides
-- Man's Search for Meaning - Viktor Frankl
-- Flow - Mihaly Csikszentmihalyi
+<h3>2019</h3>
+<ul>
+  <li>Becoming - Michelle Obama</li>
+  <li>Shoe Dog - Phil Knight</li>
+  <li>The Alchemist - Paul Coelho</li>
+  <li>Great Expectations - Charles Dickens</li>
+  <li>Educated: A Memoir - Tara Westover</li>
+  <li>The 7 Habits of Highly Effective People - Stephen Covey</li>
+  <li>
+    Tim Cook: The Genius Who Took Apple to the Next Level - Leander Kahney
+  </li>
+  <li>The 4-Hour Work Week - Tim Ferriss</li>
+  <li>Middlesex - Jeff Eugenides</li>
+  <li>Man’s Search for Meaning - Viktor Frankl</li>
+  <li>Flow - Mihaly Csikszentmihalyi</li>
+</ul>
 
-### Before 2019 (The Ones That Stuck)
-- Song of Solomon - Tony Morrison
-- A Tale of Two Cities - Charles Dickens
-- The Great Gatsby - F. Scott Fitzgerald
-- Babbitt - Sinclair Lewis
-- Arrowsmith - Sinclair Lewis
-- Main Street - Sinclair Lewis
-- Brave New World - Aldous Huxley
+<h3>Before 2019 (The Ones That Stuck)</h3>
+<ul>
+  <li>Song of Solomon - Tony Morrison</li>
+  <li>A Tale of Two Cities - Charles Dickens</li>
+  <li>The Great Gatsby - F. Scott Fitzgerald</li>
+  <li>Babbitt - Sinclair Lewis</li>
+  <li>Arrowsmith - Sinclair Lewis</li>
+  <li>Main Street - Sinclair Lewis</li>
+  <li>Brave New World - Aldous Huxley</li>
+</ul>
