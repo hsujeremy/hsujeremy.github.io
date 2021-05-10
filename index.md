@@ -9,15 +9,16 @@
 </p>
 
 <p>
-  For the past year, I've been working as a software engineer at Cisco while on
-  a gap year from Harvard. I'll be interning at Lime this summer and will
-  return to campus in the fall.
+  I took a gap year after completing my freshman year in May 2020 to intern as a
+  software engineer at Cisco. I’m currently interning as a software engineer at
+  Lime for the summer and will return to Harvard in the fall for my sophomore
+  year.
 </p>
 
 <p>
   On campus, I conduct research related to computer networking and distributed
   systems. I also help write the scoring and matching algorithms for Datamatch,
-  a matchmaking service originally started at Harvard that has now expanded to
+  a matchmaking service started at Harvard that has since expanded to
   over 34 schools.
 </p>
 
