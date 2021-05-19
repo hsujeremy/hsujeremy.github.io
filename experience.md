@@ -7,7 +7,7 @@ layout: small_title
 <div>
   <div class="metadata">
     <h4>Software Engineer Intern at Lime</h4>
-    <p class="duration">Partnership and Data Sharing</p>
+    <p class="duration">Partnerships and Data Sharing</p>
     <p class="duration">May 2021 - Present</p>
   </div>
 </div>
