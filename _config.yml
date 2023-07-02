@@ -13,7 +13,7 @@ nav-links:
   - name: Coursework
     url: /coursework
     external: false
-  - name: Resume
+  - name: Résumé
     url: /assets/Jeremy-Hsu-Resume.pdf
     external: false
 
