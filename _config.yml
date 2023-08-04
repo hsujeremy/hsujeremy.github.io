@@ -13,9 +13,9 @@ nav-links:
   - name: Coursework
     url: /coursework
     external: false
-  - name: Résumé
-    url: /assets/Jeremy-Hsu-Resume.pdf
-    external: false
+  # - name: Résumé
+  #   url: /assets/Jeremy-Hsu-Resume.pdf
+  #   external: false
 
 greeting_image: /assets/headshot.png
 greeting_text: Hello! I'm Jeremy, a student at Harvard studying Computer Science.
