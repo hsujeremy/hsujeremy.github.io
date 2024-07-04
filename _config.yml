@@ -4,15 +4,15 @@ title: Jeremy Hsu
 description: Personal site for Jeremy Hsu
 
 nav-links:
-  - name: Experience
-    url: /experience
-    external: false
-  - name: Projects
-    url: /projects
-    external: false
-  - name: Coursework
-    url: /coursework
-    external: false
+  # - name: Experience
+  #   url: /experience
+  #   external: false
+  # - name: Projects
+  #   url: /projects
+  #   external: false
+  # - name: Coursework
+  #   url: /coursework
+  #   external: false
   # - name: Résumé
   #   url: /assets/Jeremy-Hsu-Resume.pdf
   #   external: false
