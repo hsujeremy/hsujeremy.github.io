@@ -2,26 +2,12 @@
 ---
 
 $accent-color: #b00;
-$font-stack: -apple-system,
-             system-ui,
-             BlinkMacSystemFont,
-             "Segoe UI",
-             Roboto,
-             "Helvetica Nueue",
-             Arial, sans-serif,
-             "Apple Color Emoji",
-             "Segoe UI Emoji",
-             "Segoe UI Symbol";
-$heading-font-stack: -apple-system,
-                     system-ui,
-                     BlinkMacSystemFont,
-                     "Segoe UI",
-                     Roboto,
-                     "Helvetica Nueue",
-                     Arial, sans-serif,
-                     "Apple Color Emoji",
-                     "Segoe UI Emoji",
-                     "Segoe UI Symbol";
+$font-stack: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+  "Helvetica Nueue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+  "Segoe UI Symbol";
+$heading-font-stack: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "Helvetica Nueue", Arial, sans-serif, "Apple Color Emoji",
+  "Segoe UI Emoji", "Segoe UI Symbol";
 $code-font-stack: Inconsolata, monospace;
 $container-max-width: 750px;
 
@@ -81,7 +67,7 @@ h1 {
 }
 
 .global-title {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 800;
   color: #222;
 }
@@ -100,6 +86,11 @@ h4 {
   font-size: 1.25rem;
   font-weight: semibold;
   margin: 1rem 0 1rem;
+}
+
+.contact {
+  width: 25;
+  margin-left: 0.15rem;
 }
 
 // Typography: body
@@ -182,7 +173,7 @@ code {
 }
 
 .metadata > .duration {
-  color: #6B6B6B;
+  color: #6b6b6b;
   margin-top: -0.75rem;
   margin-bottom: 0.75rem;
   font-family: $font-stack;
